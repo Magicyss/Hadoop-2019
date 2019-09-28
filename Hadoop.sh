@@ -1,5 +1,5 @@
 #!/bin/bash
-echo -e " NEU 2017级大数据班 前期Hadoop、JDK以及ssh免秘登录操作脚本
+echo -e "NEU 2017级大数据班 前期Hadoop、JDK以及ssh免秘登录操作脚本
 开发人员：Magicy
 版本 V 1.0.0 Beta"
 if ! wget -N --no-check-certificate ftp://172.16.29.252/Hadoop%C0%EB%CF%DF%BC%C6%CB%E3/%B5%DA1%BF%CE%20%B3%F5%CA%B6Hadoop/hadoop-2.7.7.tar.gz;
