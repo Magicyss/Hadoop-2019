@@ -7,3 +7,9 @@
 wget -N --no-check-certificate https://raw.githubusercontent.com/Magicyss/Hadoop-2019/master/Hadoop.sh && chmod +x Hadoop.sh && . Hadoop.sh
 ```
 接下来按照提示就可以完成安装了。
+***
+## 版本更新
+***
+V 1.1.1 Beta  
+增加显示秘钥的功能，同时修复了之前因为两个防火墙操作放置在if语句中，导致第二条关闭自启的语句失效的问题。
+***
